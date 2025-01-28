@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I contributed to the following projects:
+
+- https://github.com/astromzZ/SeaGUL-Sommar-edition (project development, software, electronics development, hardware development etc.)
+- https://github.com/Ongkrab/SCS-G13 (project development, coding, report writing)
+
 <!--
 **peogradin/peogradin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
